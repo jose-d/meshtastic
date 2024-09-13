@@ -14,7 +14,7 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "design/web/favicon.ico",
-  organizationName: "meshtastic",
+  organizationName: "jose-d",
   projectName: "meshtastic",
   themeConfig: /** @type {import('@docusaurus/preset-classic').ThemeConfig} */ {
     docs: {
@@ -69,7 +69,7 @@ const config = {
           ],
         },
         {
-          href: "https://github.com/meshtastic",
+          href: "https://github.com//meshtastic",
           position: "right",
           className: "header-github-link",
           "aria-label": "GitHub repository",
@@ -125,7 +125,7 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/meshtastic/meshtastic/edit/master/",
+          editUrl: "https://github.com/jose-d/meshtastic/edit/master/",
           breadcrumbs: false,
           showLastUpdateAuthor: true,
           remarkPlugins: [remarkDefList],
